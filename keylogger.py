@@ -1,4 +1,4 @@
-# Top-secret script red team only DO NOT USE 
+# For pentest only only DO NOT USE 
 # import os
 # import datetime
 # import logging
